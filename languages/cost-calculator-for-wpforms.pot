@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WPForms Calculations\n"
+"POT-Creation-Date: 2022-01-12 22:46+0700\n"
+"PO-Revision-Date: 2022-01-12 22:45+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: calculated-field.php:15
+msgid "Calculator"
+msgstr ""
+
+#: calculated-field.php:79
+msgid "Enter text for the form field description."
+msgstr ""
+
+#: calculated-field.php:80
+msgid "Show Smart Tags"
+msgstr ""
+
+#: calculated-field.php:81
+msgid "Formula"
+msgstr ""
+
+#: calculated-field.php:92 number_format.php:15 number_format.php:84
+msgid "Number Format"
+msgstr ""
+
+#: calculated-field.php:93 number_format.php:85
+msgid "Check this option to enable using number formats."
+msgstr ""
+
+#: calculated-field.php:105 calculated-field.php:109 number_format.php:97
+#: number_format.php:101
+msgid "Symbols"
+msgstr ""
+
+#: calculated-field.php:122 number_format.php:114
+msgid "Symbols position "
+msgstr ""
+
+#: calculated-field.php:124 number_format.php:116
+msgid "Left"
+msgstr ""
+
+#: calculated-field.php:125 number_format.php:117
+msgid "Right"
+msgstr ""
+
+#: calculated-field.php:130 number_format.php:122
+msgid "Symbols position"
+msgstr ""
+
+#: calculated-field.php:143 calculated-field.php:147 number_format.php:135
+#: number_format.php:139
+msgid "Thousand separator"
+msgstr ""
+
+#: calculated-field.php:160 calculated-field.php:164 number_format.php:152
+#: number_format.php:156
+msgid "Decimal separator"
+msgstr ""
+
+#: calculated-field.php:177 calculated-field.php:181 number_format.php:169
+#: number_format.php:173
+msgid "Number of decimals"
+msgstr ""
+
+#: calculated-field.php:190
+msgid "Style"
+msgstr ""
+
+#: calculated-field.php:192
+msgid "Input"
+msgstr ""
+
+#: calculated-field.php:193
+msgid "Label"
+msgstr ""
+
+#: index.php:22
+msgid "Document"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPForms Calculations"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://codecanyon.net/user/rednumber/portfolio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create Estimation Forms, Cost Calculators, Payment Forms and More for "
+"WordPress Easily"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rednumber"
+msgstr ""
